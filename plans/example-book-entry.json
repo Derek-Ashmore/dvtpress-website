@@ -1,0 +1,188 @@
+{
+  "title": "Cloud Native Architecture Patterns",
+  "author": "Dr. Sarah Johnson",
+  "filename": "cloud-native-architecture-patterns.html",
+  "cover_image": "images/cloud-native-patterns-cover.jpg",
+  "description": "Cloud Native Architecture Patterns is a comprehensive guide to designing, building, and deploying scalable applications in modern cloud environments. This book provides practical patterns and best practices for architects and developers working with microservices, containers, and serverless technologies. Drawing from real-world experience with Fortune 500 companies, Dr. Johnson presents battle-tested solutions to common challenges in cloud-native development.",
+  "status": "Available Now!",
+  "purchase_links": {
+    "amazon": "https://www.amazon.com/dp/B09EXAMPLE",
+    "barnes_noble": "https://www.barnesandnoble.com/w/cloud-native-1234567890",
+    "other": [
+      {
+        "name": "O'Reilly Media",
+        "url": "https://www.oreilly.com/library/view/cloud-native/1234567890/",
+        "region": "Worldwide - Digital"
+      },
+      {
+        "name": "Shroff Publishers",
+        "url": "https://www.shroffpublishers.com/books/9781234567890/",
+        "region": "India and surrounding countries"
+      }
+    ]
+  },
+  "details": {
+    "extended_description": "In today's fast-paced digital economy, organizations need to build applications that are resilient, scalable, and easy to maintain. Cloud Native Architecture Patterns provides a roadmap for navigating the complex landscape of cloud technologies. This book goes beyond basic cloud migration to explore advanced patterns for building truly cloud-native applications that can scale to millions of users while maintaining high availability and performance.",
+    "what_youll_learn": [
+      "Design microservices architectures that are maintainable and scalable",
+      "Implement effective service mesh patterns for complex distributed systems",
+      "Apply the twelve-factor app methodology to cloud-native applications",
+      "Build resilient systems using circuit breakers, retries, and timeouts",
+      "Optimize container orchestration with Kubernetes best practices",
+      "Implement serverless patterns for event-driven architectures",
+      "Design effective CI/CD pipelines for cloud-native applications",
+      "Monitor and observe distributed systems effectively",
+      "Apply security best practices in cloud environments",
+      "Manage state in distributed systems"
+    ],
+    "target_audience": [
+      "Software architects designing cloud-native systems",
+      "Senior developers transitioning to cloud technologies",
+      "DevOps engineers implementing cloud infrastructure",
+      "Technical leaders making architectural decisions",
+      "Cloud platform engineers"
+    ],
+    "page_count": 468,
+    "isbn": "978-1234567890",
+    "edition": "First Edition",
+    "publication_date": "March 2024"
+  },
+  "table_of_contents": [
+    {
+      "section": "Part I: Foundations of Cloud Native Architecture",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Understanding Cloud Native",
+          "topics": [
+            "Evolution from Monoliths to Microservices",
+            "The Cloud Native Computing Foundation",
+            "Key Principles and Benefits",
+            "Common Misconceptions"
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Architectural Patterns Overview",
+          "topics": [
+            "Pattern Categories",
+            "When to Use Which Pattern",
+            "Anti-patterns to Avoid"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Part II: Core Patterns",
+      "chapters": [
+        {
+          "number": 3,
+          "title": "Microservices Patterns",
+          "topics": [
+            "Service Decomposition",
+            "API Gateway Pattern",
+            "Service Discovery",
+            "Inter-service Communication"
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Data Management Patterns",
+          "topics": [
+            "Database per Service",
+            "Saga Pattern",
+            "CQRS and Event Sourcing",
+            "Data Synchronization"
+          ]
+        },
+        {
+          "number": 5,
+          "title": "Resilience Patterns",
+          "topics": [
+            "Circuit Breaker",
+            "Bulkhead",
+            "Retry and Timeout",
+            "Health Checks"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Part III: Advanced Topics",
+      "chapters": [
+        {
+          "number": 6,
+          "title": "Serverless Patterns",
+          "topics": [
+            "Function Composition",
+            "Event-Driven Architectures",
+            "State Management",
+            "Cold Start Optimization"
+          ]
+        },
+        {
+          "number": 7,
+          "title": "Security Patterns",
+          "topics": [
+            "Zero Trust Architecture",
+            "Service Mesh Security",
+            "Secrets Management",
+            "Compliance and Governance"
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "downloads": [
+      {
+        "title": "Pattern Reference Cards",
+        "url": "docs/CloudNativePatterns-RefCards-v1.0.pdf",
+        "description": "Printable quick reference cards for all patterns"
+      },
+      {
+        "title": "Sample Code Repository",
+        "url": "https://github.com/example/cloud-native-patterns",
+        "description": "Complete working examples for each pattern"
+      },
+      {
+        "title": "Architecture Decision Records Template",
+        "url": "docs/ADR-Template.zip",
+        "description": "Templates for documenting architectural decisions"
+      }
+    ]
+  },
+  "errata": [],
+  "reviews": [
+    {
+      "text": "Dr. Johnson has created the definitive guide to cloud-native architecture. This book skillfully balances theory with practical implementation details. A must-read for anyone serious about building modern cloud applications.",
+      "reviewer": "Martin Fowler",
+      "title": "Chief Scientist, ThoughtWorks"
+    },
+    {
+      "text": "Finally, a book that addresses the real challenges of building cloud-native systems! The patterns are clearly explained with excellent examples. This will be our team's go-to reference.",
+      "reviewer": "Lisa Chen",
+      "title": "VP of Engineering, CloudTech Inc."
+    },
+    {
+      "text": "Comprehensive, practical, and immediately applicable. Dr. Johnson's experience shines through in every chapter. The real-world case studies alone are worth the price of the book.",
+      "reviewer": "Roberto Silva",
+      "title": "Principal Architect, Global Bank Corp"
+    }
+  ],
+  "author": {
+    "name": "Dr. Sarah Johnson",
+    "bio": "Dr. Sarah Johnson is a cloud architect and consultant with over 15 years of experience designing large-scale distributed systems. She has led cloud transformation initiatives at multiple Fortune 500 companies and is a frequent speaker at international conferences. Sarah holds a Ph.D. in Computer Science from MIT and contributes to several open-source cloud-native projects. She is a member of the Cloud Native Computing Foundation's Technical Advisory Group.",
+    "photo": "images/sarah-johnson.jpg",
+    "email": "sarah@cloudarchitecture.expert",
+    "linkedin": "https://linkedin.com/in/drsarahjohnson",
+    "website": "https://cloudarchitecture.expert",
+    "twitter": "@CloudArchSarah"
+  },
+  "metadata": {
+    "date_added": "2024-03-15",
+    "last_updated": "2024-03-20",
+    "featured": true,
+    "category": "Cloud Architecture"
+  }
+}

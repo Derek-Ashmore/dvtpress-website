@@ -1,0 +1,120 @@
+{
+  "title": "Your Book Title Here",
+  "author": "Author Name",
+  "filename": "your-book-title-here.html",
+  "cover_image": "images/your-book-cover.jpg",
+  "description": "A compelling overview of your book in 2-3 paragraphs. This should capture the essence of what the book covers and why it's valuable to readers.",
+  "status": "Available Now!",
+  "purchase_links": {
+    "amazon": "https://www.amazon.com/your-book-link",
+    "barnes_noble": "https://www.barnesandnoble.com/your-book-link",
+    "other": [
+      {
+        "name": "Publisher Direct",
+        "url": "https://publisher.com/your-book",
+        "region": "Worldwide"
+      }
+    ]
+  },
+  "details": {
+    "extended_description": "A more detailed description of the book's contents, approach, and unique value proposition.",
+    "what_youll_learn": [
+      "Key learning outcome 1",
+      "Key learning outcome 2",
+      "Key learning outcome 3"
+    ],
+    "target_audience": [
+      "Primary audience group",
+      "Secondary audience group"
+    ],
+    "page_count": 350,
+    "isbn": "978-0000000000",
+    "edition": "First Edition",
+    "publication_date": "January 2024"
+  },
+  "table_of_contents": [
+    {
+      "section": "Section I: Foundation",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "topics": [
+            "Topic 1.1",
+            "Topic 1.2"
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Getting Started",
+          "topics": [
+            "Topic 2.1",
+            "Topic 2.2"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Section II: Advanced Topics",
+      "chapters": [
+        {
+          "number": 3,
+          "title": "Advanced Concepts",
+          "topics": [
+            "Topic 3.1",
+            "Topic 3.2"
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "downloads": [
+      {
+        "title": "Source Code Examples",
+        "url": "docs/BookTitle-examples-v1.0.zip",
+        "description": "Complete source code for all examples in the book"
+      },
+      {
+        "title": "Quick Reference Guide",
+        "url": "docs/BookTitle-quick-ref.pdf",
+        "description": "Printable quick reference guide"
+      }
+    ]
+  },
+  "errata": [
+    {
+      "location": "Page XX, Paragraph Y",
+      "original": "Original text that needs correction",
+      "corrected": "Corrected text",
+      "date_reported": "2024-01-15"
+    }
+  ],
+  "reviews": [
+    {
+      "text": "An outstanding resource that every professional should have on their bookshelf. The author's expertise shines through every chapter.",
+      "reviewer": "Jane Smith",
+      "title": "CTO, Tech Company Inc."
+    },
+    {
+      "text": "Clear, concise, and practical. This book bridges the gap between theory and real-world application beautifully.",
+      "reviewer": "John Doe",
+      "title": "Senior Software Architect"
+    }
+  ],
+  "author": {
+    "name": "Author Full Name",
+    "bio": "Author is a recognized expert with over X years of experience in the field. They have contributed to numerous projects and publications...",
+    "photo": "images/author-photo.jpg",
+    "email": "author@example.com",
+    "linkedin": "https://linkedin.com/in/authorprofile",
+    "website": "https://authorwebsite.com",
+    "twitter": "@authorhandle"
+  },
+  "metadata": {
+    "date_added": "2024-01-01",
+    "last_updated": "2024-01-15",
+    "featured": true,
+    "category": "Software Architecture"
+  }
+}
