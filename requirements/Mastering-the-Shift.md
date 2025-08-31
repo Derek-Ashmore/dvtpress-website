@@ -6,6 +6,12 @@
 **Cover:** images/Ashmore-Mastering-the-Shift-cover.jpg
 
 ## Description
+Stop watching colleagues outpace you with AI-powered workflows while you cling to outdated methods. They’re not smarter—they’re simply using tools like GitHub Copilot, ChatGPT, and Claude to solve bigger problems and move ahead. The truth is, developers who resist AI are falling behind. This book strips away the hype, jargon, and fleeting tool-specific tutorials to teach the timeless principles that let you collaborate effectively with AI coding agents, preserving your craftsmanship while gaining the speed and capability modern development demands. The choice is simple: adapt now and accelerate your career, or stagnate while others pass you by.
+
+## Purchase Links
+- [Amazon](https://amazon.com/tbd)
+
+## Details
 **Stop watching other developers deliver features faster while you struggle with the same old workflows.**
 
 If you've noticed colleagues completing tasks in hours that take you days, they're not necessarily smarter—they've learned to work effectively with AI coding tools. While you're still debating whether AI assistance is "real programming," they're leveraging GitHub Copilot, ChatGPT, and Claude to solve bigger problems and advance their careers.
@@ -20,10 +26,6 @@ No tool-specific tutorials that become obsolete in months. No complex prompting 
 
 **Your choice is simple:** Learn to collaborate effectively with AI coding agents now, or watch your career stagnate while others accelerate past you. The shift is happening with or without you.
 
-## Purchase Links
-- [Amazon](https://amazon.com/tbd)
-
-## Details
 ### What You'll Learn
 - Simple, effective techniques for working with AI coding assistants
 - When to trust AI suggestions and when to ignore them
