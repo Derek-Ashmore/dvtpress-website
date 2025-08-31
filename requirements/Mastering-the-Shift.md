@@ -6,7 +6,9 @@
 **Cover:** images/Ashmore-Mastering-the-Shift-cover.jpg
 
 ## Description
-Stop watching colleagues outpace you with AI-powered workflows while you cling to outdated methods. They’re not smarter—they’re simply using tools like GitHub Copilot, ChatGPT, and Claude to solve bigger problems and move ahead. The truth is, developers who resist AI are falling behind. This book strips away the hype, jargon, and fleeting tool-specific tutorials to teach the timeless principles that let you collaborate effectively with AI coding agents, preserving your craftsmanship while gaining the speed and capability modern development demands. The choice is simple: adapt now and accelerate your career, or stagnate while others pass you by.
+**Adapt or Retire:** Use Teams of AI Agents to produce more at a higher quality!
+
+The truth is, developers who resist AI are falling behind. This book strips away the hype, jargon, and fleeting tool-specific tutorials to teach the timeless principles that let you collaborate effectively with AI coding agents.
 
 ## Purchase Links
 - [Amazon](https://amazon.com/tbd)
